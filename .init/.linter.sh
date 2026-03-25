@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/outage-management-and-dispatch-platform-3142-3152/mobile_app_frontend
+flutter analyze
+
